@@ -10,7 +10,7 @@ import { FaStar } from "react-icons/fa";
 const Banner = () => {
   return (
     <div className=" lg:mx-24 mx-5 lg:mt-12 mt-5">
-      <div className="relative" data-aos="fade-up" data-aos-duration="2000">
+      <div className="relative" data-aos="fade-up" data-aos-duration="1000">
         <img src={logo} alt="Banner" className="w-full h-auto" />
         <div className="absolute inset-0 bg-gradient-to-r from-[rgba(0, 193, 157, 0)] to-[rgba(2, 0, 67, 0.47)]"></div>
         <div data-aos="fade-up" data-aos-duration="2000">

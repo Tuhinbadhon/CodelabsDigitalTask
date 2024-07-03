@@ -53,9 +53,9 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">{navlink}</ul>
         </div>
         <div className="navbar-end">
-          <a className="btn border-solid border-[#343268] font-medium">
+          <button className="btn border-solid border-[#343268] font-medium">
             Appointment <GoArrowUpRight />
-          </a>
+          </button>
         </div>
       </div>
     </div>

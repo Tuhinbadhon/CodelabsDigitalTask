@@ -65,9 +65,9 @@ const Services = () => {
               empathy, ensuring that they receive the attention and care they
               deserve.
             </p>
-            <p className="btn border-none mt-11 bg-yellow-400 text-black font-medium">
+            <button className="btn border-none mt-11 bg-yellow-400 text-black font-medium">
               Appointment <GoArrowUpRight />
-            </p>
+            </button>
           </div>
           <div className="lg:relative max-[450px]:mt-5 w-full h-auto lg:h-96">
             {" "}
