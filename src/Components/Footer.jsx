@@ -51,7 +51,7 @@ const Footer = () => {
           </div>
           <div className="flex flex-col max-[450px]:text-center gap-2 mt-6 text-white">
             <h2>Follow Us</h2>
-            <div className="grid grid-flow-col gap-4 justify-center">
+            <div className="grid grid-flow-col gap-5 justify-center">
               <a href="" aria-label="Facebook">
                 <FaFacebook className="text-2xl text-blue-600" />
               </a>
