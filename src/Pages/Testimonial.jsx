@@ -21,7 +21,11 @@ const Testimonial = () => {
           What they say about us
         </h1>
       </div>
-      <div data-aos="fade-up" data-aos-duration="1000" className="">
+      <div
+        data-aos="fade-up"
+        data-aos-duration="1000"
+        className=" max-[450px]:hidden"
+      >
         <Swiper
           slidesPerView={3}
           centeredSlides={true}
